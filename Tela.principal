@@ -1,0 +1,23 @@
+using System;
+
+class Program {
+string nomeDaTela = "Tela principal";
+static void Main () {
+Console.WriteLine(nomeDaTela);
+
+} 
+
+class Program {
+string nome = "";
+string sobrenome = "";
+string Email = "";
+string senha = "";
+
+void Start()
+{
+Console.writeLine(nome);
+Console.writeLine(sobrenome);
+Console.writeLine(Email);
+Console.writeLine(senha);
+
+} 
